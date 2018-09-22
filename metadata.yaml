@@ -1,0 +1,35 @@
+_repo: To-Herat-and-Cabul-A-Story-of-The-First-Afghan-War_55779
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sheldon, Charles M.
+    alias: Sheldon, Charles Monroe
+    birthdate: 1857
+    deathdate: 1946
+    gutenberg_agent_id: '1495'
+    url: http://www.gutenberg.org/2009/agents/1495
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Sheldon
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2017-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55779'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'To Herat and Cabul
+
+  A Story of The First Afghan War'
+url: http://www.gutenberg.org/ebooks/55779
